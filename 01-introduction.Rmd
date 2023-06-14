@@ -276,7 +276,7 @@ Its main member is the **terra** package for spatial raster handling (see Sectio
 ## The history of R-spatial
 <!-- jn -->
 
-There are many benefits of using recent spatial packages such as **sf**, but it also important to be aware of the history of R's spatial capabilities: many functions, use-cases and teaching material are contained in older packages.
+There are many benefits of using recent spatial packages such as **sf**, but it is also important to be aware of the history of R's spatial capabilities: many functions, use-cases and teaching material are contained in older packages.
 These can still be useful today, provided you know where to look.
 \index{R!history}
 \index{R-spatial!history}
